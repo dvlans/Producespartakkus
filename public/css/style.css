@@ -1,0 +1,18 @@
+body {}
+
+.menuStyle {
+    background-color: black;
+    color: white;
+}
+
+.labelMenu {
+    color: white;
+}
+
+.circular {
+    background-color: yellow;
+}
+
+.icon {
+    color: white;
+}
