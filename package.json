@@ -23,6 +23,6 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "semantic-ui": "^2.4.2"
+        "semantic-ui": "^2.5.0"
     }
 }
